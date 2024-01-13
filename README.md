@@ -5,7 +5,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [Website Screenshots](#website-screenshots)
 
 
 ## Description
@@ -43,3 +43,11 @@ steps:
 5. Push to the branch (git push origin feature/YourFeatureName).
 6. Open a pull request.
 
+## Website Screenshots
+![Login](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/login.png)
+![Dashboard]([https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/dashboard.png)
+![Database](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/database.png)
+![Home](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/home.png)
+![Hobby](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/hobby.png)
+![Portfolio](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/portfolio.png)
+![Contact](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/contact.png)
