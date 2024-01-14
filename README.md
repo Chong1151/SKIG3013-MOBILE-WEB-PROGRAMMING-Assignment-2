@@ -45,10 +45,10 @@ steps:
 
 ## Website Screenshots
 Landing page
-[Landing](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/c0d2bee7900c199bbd8d9aa10147aac51bcc3791/website%20screenshots/Landing.jpg)
+![Landing](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/c0d2bee7900c199bbd8d9aa10147aac51bcc3791/website%20screenshots/Landing.jpg)
 <br>
 Login.html
-[Login](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/c0d2bee7900c199bbd8d9aa10147aac51bcc3791/website%20screenshots/login.png)
+![Login](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/c0d2bee7900c199bbd8d9aa10147aac51bcc3791/website%20screenshots/login.png)
 
 Admin page
 ![Dashboard](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/ffbe76bef2038411b3acff79f48ee04c201be7a7/website%20screenshots/dashboard.png)
