@@ -45,25 +45,25 @@ steps:
 
 ## Website Screenshots
 Landing page
-![Landing](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/Landing.jpg)
+[Landing](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/Landing.jpg)
+<br>
+Login.html
+[Login](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/login.png)
 
-!Login.html
-![Login](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/login.png)
-
-!Table page
+Table page
 ![Dashboard]([https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/dashboard.png)
 
-!Database page
+Database page
 ![Database](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/database.png)
 
-!Main page
+Main page
 ![Home](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/home.png)
 
-!Hobby page
+Hobby page
 ![Hobby](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/hobby.png)
 
-!Portfolio
+Portfolio
 ![Portfolio](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/portfolio.png)
 
-!Help or Contact page
+Help or Contact page
 ![Contact](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/contact.png)
