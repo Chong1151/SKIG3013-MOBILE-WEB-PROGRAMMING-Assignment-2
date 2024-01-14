@@ -44,6 +44,7 @@ steps:
 6. Open a pull request.
 
 ## Website Screenshots
+![Landing](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/Landing.jpg)
 ![Login](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/login.png)
 ![Dashboard]([https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/dashboard.png)
 ![Database](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/database.png)
