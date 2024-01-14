@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>UUM TECH</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="static/assets/img/favicon.png" rel="icon">
+  <link href="static/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="static/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="static/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="static/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="static/assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+  <link href="static/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <!-- Include Bootstrap CSS from a CDN -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+
+
+  <!-- Template Main CSS File -->
+  <link href="static/assets/css/style.css" rel="stylesheet">
+
+
+  <!-- Custom Style for Active Navigation Item -->
+  <!-- Custom Style for Active Navigation Item -->
+  <style>
+    .navbar .nav-link.active {
+      color: blue; /* Highlight color for active page */
+    }
+  </style>
+
+  <style>
+    #nav-logout {
+        margin-left: 50px;
+        background-color: #007bff; /* Bootstrap primary color */
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+    /* Change color on hover */
+    #nav-logout:hover {
+        background-color: #0056b3;
+        color: white;
+    }
+</style>
+</head>
+
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top ">
+    <div class="container d-flex align-items-center">
+      <h1 class="logo me-auto"><a href="/">UUM TECH</a></h1>
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+        <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto" href="/admin" id="nav-home">Home</a></li>
+          <li><a class="nav-link scrollto" href="/portfolioadmin" id="nav-portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="/hobbyadmin" id="nav-hobby">Hobby</a></li>
+          <li><a class="nav-link scrollto" href="/contact1admin" id="nav-contact">Help & Contact</a></li>
+           <li><a class="nav-link scrollto" href="/bootstrap" id="nav-bootstrap">Admin</a></li>
+           <li><a class="nav-link scrollto btn btn-primary" href="/logout" id="nav-logout" style="color: white;">Logout</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  {% block content %}{% endblock %}
+
+
+    <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h3>UUM TECH</h3>
+            <p>
+              Universiti Utara Malaysia,<br> Sintok, 06010 <br>Bukit Kayu Hitam, Kedah <br><br>
+              <strong>Phone:</strong> +604-928 4000<br>
+              <strong>Email:</strong> servicedesk@uum.edu.my<br>
+            </p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="/admin">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/portfolioadmin">Portfolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/hobbyadmin">Hobby</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/contact1admin">Help & Contact</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/bootstrap">Admin</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/logout">Logout</a></li>
+
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Services</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Web Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Web Development</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Product Management</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Marketing</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/">Graphic Design</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Our Social Networks</h4>
+            <p>Elevate your online presence with UUM TECH Sdn Bhd, a premier web design company in Malaysia. <br>
+            Experience the transformative power of our web design services and establish a strong digital foundation for your business.</p>
+            <div class="social-links mt-3">
+              <a href="https://twitter.com/uumnews" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a href="https://www.facebook.com/universitiutaramalaysia/" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://www.instagram.com/uumofficial/" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="https://t.me/uuminfo" class="telegram"><i class="bx bxl-telegram"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container footer-bottom clearfix">
+      <div class="copyright">
+        &copy; Copyright <strong><span>UUM TECH</span></strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <div id="preloader"></div>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="static/assets/vendor/aos/aos.js"></script>
+  <script src="static/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="static/assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="static/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="static/assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="static/assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="static/assets/js/main.js"></script>
+  <!-- Script to Highlight Active Navigation Item -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var path = window.location.pathname;
+      if(path === "/") {
+        document.getElementById("nav-home").classList.add("active");
+      } else if(path.includes("/portfolioadmin")) {
+        document.getElementById("nav-portfolio").classList.add("active");
+      } else if(path.includes("/hobbyadmin")) {
+        document.getElementById("nav-hobby").classList.add("active");
+      } else if(path.includes("/contactadmin")) {
+        document.getElementById("nav-contact").classList.add("active");
+      }else if(path.includes("/bootstrap")) {
+        document.getElementById("nav-bootstrap").classList.add("active");
+      }
+    });
+  </script>
+
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.js"></script>
+
+<script>
+  AOS.init();
+</script>
+
+ {% if form_errors %}
+    <script>
+        window.onload = function() {
+            var errors = {{ form_errors | tojson | safe }};
+            var errorMessage = '';
+            for (var field in errors) {
+                errorMessage += field + ': ' + errors[field].join('; ') + '\n';
+            }
+            alert(errorMessage);
+        };
+    </script>
+    {% endif %}
+
+    {% if session['message'] %}
+    <script>
+        window.onload = function() {
+            alert("{{ session['message'] }}");
+            "{{ session.pop('message', None) }}";
+        };
+    </script>
+    {% endif %}
+
+
+</body>
+
+</html>
