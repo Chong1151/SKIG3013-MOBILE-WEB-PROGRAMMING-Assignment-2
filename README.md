@@ -51,7 +51,7 @@ Login.html
 [Login](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/login.png)
 
 Table page
-![Dashboard]([https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/dashboard.png)
+![Dashboard](website screenshots/dashboard.png)
 
 Database page
 ![Database](https://github.com/Chong1151/SKIG3013-MOBILE-WEB-PROGRAMMING-Assignment-2/blob/main/website%20screenshots/database.png)
